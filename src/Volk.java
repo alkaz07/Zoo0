@@ -1,6 +1,6 @@
 // Шоркин Сергей
 
-public class Volk extends  {
+public class Volk extends Animal {
 
 
 }
