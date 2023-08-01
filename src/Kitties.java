@@ -1,3 +1,3 @@
 //added by tarragoosorio
-public class Kitties extends Animal{
+public class Cat extends Animal{
 }
