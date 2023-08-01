@@ -3,7 +3,7 @@
 public class Volk extends Animal {
     public static void  say(){
 
-        System.out.println("Ауууууууууу");
+        System.out.println("Аууууууууууу");
     }
 
 
