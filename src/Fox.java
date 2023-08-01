@@ -7,6 +7,7 @@ public class Fox extends Animal
         public void weight() {
             double weight = 10;
             System.out.println(" Вес " + weight + " kg");
+            //+++
         }
 
 }
