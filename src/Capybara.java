@@ -1,4 +1,4 @@
 // Михеева Алёна
 
-public class Penguin extends Animal{
+public class Capybara extends Animal{
 }
