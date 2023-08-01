@@ -1,10 +1,12 @@
-public class Fox extends Animal  {
-    public void say()
+public class Fox extends Animal
     {
-        double weight=12;
-        System.out.println("Уф Уф");
-        System.out.println("Вес" + weight);
+        public void say () {
+            System.out.println("Уф Уф");
+        }
 
-    }
+        public void weight() {
+            double weight = 10;
+            System.out.println(" Вес " + weight + " kg");
+        }
 
 }
