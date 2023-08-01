@@ -1,6 +1,10 @@
 // Олег Гейвандов
 public class  Crocodile extends Animal{
 
+    String name;
+
+    int age;
+
     public void eatPeople(){
         System.out.println("Очень вкусно");
     }
@@ -17,5 +21,5 @@ public class  Crocodile extends Animal{
         System.out.println("ох и непросто лазать по деревьям");
     }
 
-    //climb up trees
+
 }
