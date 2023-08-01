@@ -1,3 +1,3 @@
 // Класс добавлен Максимом.
-public class kangaroo {
+public class Kangaroo {
 }
