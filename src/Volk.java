@@ -1,7 +1,6 @@
-// Шоркин Сергей
+//  Сергей
 
 public class Volk extends Animal {
-
 
 }
 
